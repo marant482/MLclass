@@ -9,3 +9,6 @@ linkt do tzreciej PD:
 
 link do 4 PD:
 https://github.com/marant482/MLclass/blob/main/Lab04_penalized-regression.ipynb
+
+link do 5 PD:
+https://github.com/marant482/MLclass/blob/main/Lab05_kernel-methods.ipynb
