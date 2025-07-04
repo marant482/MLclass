@@ -15,3 +15,7 @@ https://github.com/marant482/MLclass/blob/main/Lab05_kernel-methods.ipynb
 
 link do 6 PD:
 https://github.com/marant482/MLclass/blob/main/Lab06_tree-methods.ipynb
+
+
+Link do ostatniej pracy domowej:
+https://github.com/marant482/MLclass/blob/main/Last%20assigment.ipynb
